@@ -31,12 +31,13 @@ CPF que vamos usar como exemplo: 111.444.777-05
 
    11 - 8 = 3
 
-como podemos ver o CPF é imvalido voi o primeiro DV ficou fiferente 
+como podemos ver o CPF é ivalido voi o primeiro DV ficou diferente 
+
 ex no codigo:
 ![image](https://github.com/rodrigoinaldo/Work_validadeCPF/assets/97739673/931db223-6276-4af8-ab7e-d24633c1f60a)
 
 ## Segundo digito verificador 
-alcontrario do anterios em vez multiplicar pela orden decrecebte de 10 ate 2 vomos de 11 até 2 usando o acrecimo do digito verificador
+Ao contrario do anterios em vez multiplicar pela orden decrecebte de 10 ate 2 vomos de 11 até 2 usando mais o primeiro DV que acabamos de descobrir
 
 | Dígito | Número correspondente | Result. multiplicação |
 |--------|-----------------------|-----------------------|
@@ -63,7 +64,7 @@ alcontrario do anterios em vez multiplicar pela orden decrecebte de 10 ate 2 vom
 
    11-6= 5
 
-porem como o primeiro didito ja deu errado não passaria para segunda parte:
+porem como o primeiro digito ja deu errado não passaria para segunda parte:
 ex code:
 ![image](https://github.com/rodrigoinaldo/Work_validadeCPF/assets/97739673/9b971369-fbad-4f4a-84db-552acaa0185b)
 
