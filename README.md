@@ -70,6 +70,6 @@ ex code:
 
 Abaixo segue um diagrama de atividade para mostrar o funcionamento do software 
 
-![Fluxogramas](https://github.com/rodrigoinaldo/Work_validadeCPF/assets/97739673/48728475-1a13-4135-aef6-5f345f0306b2)
+[Fluxogramas JAVA.pdf](https://github.com/rodrigoinaldo/Work_validadeCPF/files/14933067/Fluxogramas.JAVA.pdf)
 
 
