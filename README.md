@@ -75,7 +75,9 @@ A baixo segue um diagrama de atividade para mostrar o funcionamento do software 
 --------------------------------
 ### Trabalho realizado por:
 Rodrigo Alcantar -> 13633
+
 Bruno Cherbaty -> 11174
+
 Gabriel Paiva -> 13631
 
 
