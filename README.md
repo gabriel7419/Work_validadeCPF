@@ -68,8 +68,8 @@ porem como o primeiro digito ja deu errado não passaria para segunda parte:
 ex code:
 ![image](https://github.com/rodrigoinaldo/Work_validadeCPF/assets/97739673/9b971369-fbad-4f4a-84db-552acaa0185b)
 
-Abaixo segue um diagrama de atividade para mostrar o funcionamento do software 
+A baixo segue um diagrama de atividade para mostrar o funcionamento do software :
 
-[Fluxogramas JAVA.pdf](https://github.com/rodrigoinaldo/Work_validadeCPF/files/14933067/Fluxogramas.JAVA.pdf)
+![FluxogramasJava](https://github.com/rodrigoinaldo/Work_validadeCPF/assets/97739673/6d65f83a-e7c0-4c22-a222-f96d64a400cc)
 
 
