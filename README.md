@@ -72,4 +72,10 @@ A baixo segue um diagrama de atividade para mostrar o funcionamento do software 
 
 ![FluxogramasJava](https://github.com/rodrigoinaldo/Work_validadeCPF/assets/97739673/6d65f83a-e7c0-4c22-a222-f96d64a400cc)
 
+--------------------------------
+### Trabalho realizado por:
+Rodrigo Alcantar -> 13633
+Bruno Cherbaty -> 11174
+Gabriel Paiva -> 13631
+
 
