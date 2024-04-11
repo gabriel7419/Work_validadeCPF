@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.unialfa</groupId>
-    <artifactId>Trabalho_Java_CPF</artifactId>
+    <artifactId>Work_validadeCPF</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
