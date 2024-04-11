@@ -33,7 +33,8 @@ CPF que vamos usar como exemplo: 111.444.777-05
 
 Como podemos ver o CPF é inválido pois o primeiro DV ficou diferente 
 
-ex no codigo:
+Ex no codigo:
+
 ![image](https://github.com/rodrigoinaldo/Work_validadeCPF/assets/97739673/931db223-6276-4af8-ab7e-d24633c1f60a)
 
 ## Segundo digito verificador 
